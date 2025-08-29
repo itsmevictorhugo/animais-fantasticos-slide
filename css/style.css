@@ -14,7 +14,7 @@ img {
 }
 
 .slide-wrapper {
-overflow: hidden;
+  overflow: hidden;
 }
 
 .slide {
@@ -26,5 +26,4 @@ overflow: hidden;
   width: 80vw;
   max-width: 800px;
   margin: 0 20px;
-
 }
